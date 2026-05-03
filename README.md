@@ -31,6 +31,7 @@ I’ve led zero-downtime bank migrations, stabilized high-scale systems under lo
 
 ## Case Studies
 
+* [Total System Stabilization ](./case-studies/TransUnion-Stabilization.md)
 * [Delivering Without System Access](./case-studies/iesy.md)
 * [Zero-Downtime Datacenter Migration](./case-studies/bnp-migration.md)
 
