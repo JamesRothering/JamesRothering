@@ -15,6 +15,8 @@ This wasn’t a greenfield problem. The system was live, under load, and failing
 
 I started by treating the system as a whole instead of isolating individual components.
 
+* **Used proprietary assessment software I developed to analyze the full system (application, infrastructure, and data layers), producing a detailed 70-page report covering architecture, failure modes, and remediation paths**
+
 * Reviewed application behavior, infrastructure, and database design together
 
 * Identified failure patterns rather than chasing individual incidents
@@ -24,10 +26,6 @@ I started by treating the system as a whole instead of isolating individual comp
 * Traced how data flow and system interactions were breaking under real conditions
 
 * Prioritized fixes based on impact, not just visibility
-
-* **Used proprietary assessment software I developed to analyze the full system (application, infrastructure, and data layers), producing a detailed 70-page report covering architecture, failure modes, and remediation paths**
-
-In parallel, I documented everything into a structured remediation plan so the work could scale beyond immediate fixes.
 
 ### What Changed
 
